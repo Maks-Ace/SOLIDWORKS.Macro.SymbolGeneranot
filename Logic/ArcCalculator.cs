@@ -1,4 +1,5 @@
-﻿using System;
+﻿using SolidWorks.Interop.sldworks;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,20 +7,9 @@ using System.Threading.Tasks;
 
 namespace SymbolCodeGenerator.Logic
 {
-    class ArcCalculator
+   public static class ArcCalculator
     {
-        public ArcCalculator(double CX, double CY, double PX, double PY)
-        {
-            this.CX = CX;
-            this.CY = CY;
-            PointX = PX;
-            PointY = PY;
-        }
 
-        public double CX { get;}
-        public double CY { get;}
-        public double PointX { get; set; }
-        public double PointY { get; set; }
 
         public double GetPointAngle()
         {

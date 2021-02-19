@@ -54,13 +54,7 @@ namespace SymbolCodeGenerator.Logic
                         }
                         else
                         {
-                            // declare variables
-                            var centerPoint = (SketchPoint)arc.GetCenterPoint2();
-                            var startPoint = (SketchPoint)arc.GetStartPoint2();
-                            var endPoint = (SketchPoint)arc.GetEndPoint2();
-                            var radius = arc.GetRadius();
-                            var startPointCalc = new ArcCalculator(centerPoint.X, centerPoint.Y, startPoint.X, startPoint.Y);
-                            var endPointCalc = new ArcCalculator(centerPoint.X, centerPoint.Y, endPoint.X, endPoint.Y);
+                            string arcString = arc.GetDataForSymbol();
 
                             //get necessary string values for arc
                             var arcCX = (Math.Round((centerPoint.X * 1000), 2)).ToString(nfi);
