@@ -1,0 +1,11 @@
+E:\WP\00_S\00_MAIN\W_TASKS\0030\SymbolCodeGenerator\bin\Debug\SymbolCodeGenerator.dll
+E:\WP\00_S\00_MAIN\W_TASKS\0030\SymbolCodeGenerator\bin\Debug\SymbolCodeGenerator.pdb
+E:\WP\00_S\00_MAIN\W_TASKS\0030\SymbolCodeGenerator\bin\Debug\SolidWorks.Interop.sldworks.dll
+E:\WP\00_S\00_MAIN\W_TASKS\0030\SymbolCodeGenerator\bin\Debug\SolidWorks.Interop.swconst.dll
+E:\WP\00_S\00_MAIN\W_TASKS\0030\SymbolCodeGenerator\obj\Debug\SymbolCodeGenerator.csprojAssemblyReference.cache
+E:\WP\00_S\00_MAIN\W_TASKS\0030\SymbolCodeGenerator\obj\Debug\SymbolCodeGenerator.SymbolGenFrm.resources
+E:\WP\00_S\00_MAIN\W_TASKS\0030\SymbolCodeGenerator\obj\Debug\SymbolCodeGenerator.csproj.GenerateResource.cache
+E:\WP\00_S\00_MAIN\W_TASKS\0030\SymbolCodeGenerator\obj\Debug\SymbolCodeGenerator.csproj.CoreCompileInputs.cache
+E:\WP\00_S\00_MAIN\W_TASKS\0030\SymbolCodeGenerator\obj\Debug\SymbolCodeGenerator.csproj.CopyComplete
+E:\WP\00_S\00_MAIN\W_TASKS\0030\SymbolCodeGenerator\obj\Debug\SymbolCodeGenerator.dll
+E:\WP\00_S\00_MAIN\W_TASKS\0030\SymbolCodeGenerator\obj\Debug\SymbolCodeGenerator.pdb
