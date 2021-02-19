@@ -56,15 +56,7 @@ namespace SymbolCodeGenerator.Logic
                         {
                             string arcString = arc.GetDataForSymbol();
 
-                            //get necessary string values for arc
-                            var arcCX = (Math.Round((centerPoint.X * 1000), 2)).ToString(nfi);
-                            var arcCY = (Math.Round((centerPoint.Y * 1000), 2)).ToString(nfi);
-                            var arcRadius = (Math.Round((radius * 1000), 2)).ToString(nfi);
-                            var startAngle = (Math.Round((startPointCalc.GetPointAngle()), 2)).ToString(nfi);
-                            var endAngle = (Math.Round((endPointCalc.GetPointAngle()), 2)).ToString(nfi);
-
                             // output parametrs A,ARC XC,YC,radius,starsAngle,endEngle
-                            string arcString = $"A,Arc, {arcCX},{arcCY},{arcRadius},{startAngle},{endAngle}";
                             elementsOfSketch.Add(arcString);
                         }
                         break;

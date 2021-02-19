@@ -108,7 +108,7 @@
             this.Controls.Add(this.groupBox1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "SymbolGenFrm";
-            this.Text = "Генератор символов v1.0";
+            this.Text = "Генератор символов v1.1";
             this.Load += new System.EventHandler(this.SymbolGenFrm_Load);
             this.groupBox1.ResumeLayout(false);
             this.ResumeLayout(false);
